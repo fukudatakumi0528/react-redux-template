@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## reactとreduxを使う際のテンプレートです。
 
 react、redux、redux　develop toolを使用するためのテンプレートです。
+使用する際には、これをコピーして使用してください。
 
 ## Available Scripts
 
