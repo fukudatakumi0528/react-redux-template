@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## reactとreduxを使う際のテンプレートです。
+
+react、redux、redux　develop toolを使用するためのテンプレートです。
+
 ## Available Scripts
 
 In the project directory, you can run:
